@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Cosmo Space Guide 🚀
 
-# Run and deploy your AI Studio app
+Welcome to the Cosmo Space Guide! This is an AI-powered interactive application designed to explore the wonders of space using AI.
 
-This contains everything you need to run your app locally.
+## Features
+* AI-driven cosmic insights
+* Clean user interface for space exploration
 
-View your app in AI Studio: https://ai.studio/apps/55019b3c-b203-4140-b4a6-8f94e9792612
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## How to Run Locally
+1. Install dependencies: `npm install`
+2. Configure your secret API keys inside a `.env` file.
+3. Start the development server: `npm run dev`
