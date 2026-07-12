@@ -1,0 +1,6 @@
+{
+  "name": "Cosmo Space Guide",
+  "description": "An interactive, friendly, and brilliant AI space guide designed to spark a love for astronomy and space exploration in kids and beginners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
